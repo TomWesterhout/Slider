@@ -37,7 +37,6 @@ time, mark, audio, video {
 		font-size: 5em;
 		color: #fff;
 		border-bottom: 1px solid #fff;
-		text-align: center;
 	}
 	
 	h2 {
@@ -331,7 +330,7 @@ time, mark, audio, video {
 	}
 	
 	.content {
-		width: 80vw;
+		width: 90vw;
 		min-height: 100vh;
 		display: flex;
 		flex-direction: column;
@@ -352,19 +351,19 @@ time, mark, audio, video {
 	}
 	
 	.img {
-		width: 80vw;
+		width: 90vw;
 		display: flex;
 		flex-direction: row;
 		justify-content: space-around;
 	}
 	
 	.img img {
-		width: 50%;
+		width: 47.5%;
 		height: 100%;
 	}
 
 	.filler {
-		display: none;
+		width: 5%;
 	}
 	
 	.text {
@@ -428,7 +427,7 @@ time, mark, audio, video {
 	}
 	
 	.content {
-		width: 80vw;
+		width: 90vw;
 		min-height: 100vh;
 		display: flex;
 		flex-direction: column;
@@ -449,19 +448,19 @@ time, mark, audio, video {
 	}
 	
 	.img {
-		width: 80vw;
+		width: 90vw;
 		display: flex;
 		flex-direction: row;
 		justify-content: space-around;
 	}
 	
 	.img img {
-		width: 50%;
+		width: 47.5%;
 		height: 100%;
 	}
 
 	.filler {
-		display: none;
+		width: 5%;
 	}
 	
 	.text {
